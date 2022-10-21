@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43dae5e-04cb-4dd3-859c-b6aea1d525c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/DateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/RuntimeApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DateApp">
+  <component name="RunManager" selected="Application.RuntimeApp">
     <configuration name="BigNumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.BigNumberApp" />
       <module name="Java-Standard-Classes" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.NumberApp" />
+    <configuration name="RuntimeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.RuntimeApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeApp" />
         <item itemvalue="Application.DateApp" />
         <item itemvalue="Application.ScannerApp" />
         <item itemvalue="Application.BigNumberApp" />
         <item itemvalue="Application.MathApp" />
-        <item itemvalue="Application.NumberApp" />
       </list>
     </recent_temporary>
   </component>
