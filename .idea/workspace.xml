@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43dae5e-04cb-4dd3-859c-b6aea1d525c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/BigNumberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/ScannerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BigNumberApp">
+  <component name="RunManager" selected="Application.ScannerApp">
     <configuration name="BigNumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.BigNumberApp" />
       <module name="Java-Standard-Classes" />
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringJoinerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.StringJoinerApp" />
+    <configuration name="ScannerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.ScannerApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerApp" />
         <item itemvalue="Application.BigNumberApp" />
         <item itemvalue="Application.MathApp" />
         <item itemvalue="Application.NumberApp" />
         <item itemvalue="Application.StringTokenizerApp" />
-        <item itemvalue="Application.StringJoinerApp" />
       </list>
     </recent_temporary>
   </component>
