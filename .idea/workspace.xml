@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43dae5e-04cb-4dd3-859c-b6aea1d525c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/RuntimeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/UUIDApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RuntimeApp">
+  <component name="RunManager" selected="Application.UUIDApp">
     <configuration name="BigNumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.BigNumberApp" />
       <module name="Java-Standard-Classes" />
@@ -59,19 +59,6 @@
     </configuration>
     <configuration name="DateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.DateApp" />
-      <module name="Java-Standard-Classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Standard.Classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.MathApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UUIDApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.UUIDApp" />
+      <module name="Java-Standard-Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.Standard.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UUIDApp" />
         <item itemvalue="Application.RuntimeApp" />
         <item itemvalue="Application.DateApp" />
         <item itemvalue="Application.ScannerApp" />
         <item itemvalue="Application.BigNumberApp" />
-        <item itemvalue="Application.MathApp" />
       </list>
     </recent_temporary>
   </component>
