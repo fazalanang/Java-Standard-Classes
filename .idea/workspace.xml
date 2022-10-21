@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43dae5e-04cb-4dd3-859c-b6aea1d525c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/UUIDApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/Base64App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UUIDApp">
-    <configuration name="BigNumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.BigNumberApp" />
+  <component name="RunManager" selected="Application.Base64App">
+    <configuration name="Base64App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.Base64App" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Base64App" />
         <item itemvalue="Application.UUIDApp" />
         <item itemvalue="Application.RuntimeApp" />
         <item itemvalue="Application.DateApp" />
         <item itemvalue="Application.ScannerApp" />
-        <item itemvalue="Application.BigNumberApp" />
       </list>
     </recent_temporary>
   </component>
