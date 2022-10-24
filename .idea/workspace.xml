@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43dae5e-04cb-4dd3-859c-b6aea1d525c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/PropertiesApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/ArraysApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,20 @@
       <recent name="C:\Project Java\Java-Standard-Classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PropertiesApp">
+  <component name="RunManager" selected="Application.ArraysApp">
+    <configuration name="ArraysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.ArraysApp" />
+      <module name="Java-Standard-Classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.Standard.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Base64App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.Base64App" />
       <module name="Java-Standard-Classes" />
@@ -102,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UUIDApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.UUIDApp" />
-      <module name="Java-Standard-Classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Standard.Classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysApp" />
         <item itemvalue="Application.PropertiesApp" />
         <item itemvalue="Application.RandomApp" />
         <item itemvalue="Application.ObjectsApp" />
         <item itemvalue="Application.Base64App" />
-        <item itemvalue="Application.UUIDApp" />
       </list>
     </recent_temporary>
   </component>
