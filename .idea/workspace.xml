@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43dae5e-04cb-4dd3-859c-b6aea1d525c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/ObjectsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Standard/Classes/RandomApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ObjectsApp">
+  <component name="RunManager" selected="Application.RandomApp">
     <configuration name="Base64App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.Base64App" />
       <module name="Java-Standard-Classes" />
@@ -57,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.DateApp" />
+    <configuration name="ObjectsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.ObjectsApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.ObjectsApp" />
+    <configuration name="RandomApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Standard.Classes.RandomApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomApp" />
         <item itemvalue="Application.ObjectsApp" />
         <item itemvalue="Application.Base64App" />
         <item itemvalue="Application.UUIDApp" />
         <item itemvalue="Application.RuntimeApp" />
-        <item itemvalue="Application.DateApp" />
       </list>
     </recent_temporary>
   </component>
